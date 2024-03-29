@@ -10,7 +10,8 @@
 Currently working on applying AI to newspaper media at the [University of Malta](https://www.um.edu.mt/).
 
 ### Past Jobs
- [Harbor Solutions](https://www.harboursolutions.com.mt/about)
- [ClearVue](https://clearvue.business/).
+ - [Harbor Solutions](https://www.harboursolutions.com.mt/about)
+ - [ClearVue](https://clearvue.business/).
 
-- 📫 hiligabriel3@gmail.com / gabriel.hili@um.edu.mt
+### How to reach me 📫
+- hiligabriel3@gmail.com / gabriel.hili@um.edu.mt
